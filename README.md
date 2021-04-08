@@ -1,3 +1,6 @@
+<!-- PROJECT TITLE -->
+![logo](https://github.com/IUDevman/gamesense-assets/blob/main/images/new/logo_large.png)
+
 # gamesense-assets
 Assets for the GameSense client.
 
