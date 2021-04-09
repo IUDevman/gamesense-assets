@@ -1,0 +1,30 @@
+General Information:
+1) The ClickGUI is opened by clicking the bind for your ClickGui (default "O") and the HUDEditor is opened by clicking the default bind of "P" or by enabling the module in the ClickGui.
+
+2) Modules are separated by category panels which can be closed/opened by right clicking on the top "name" part of the panel. Panels can be moved by holding left click on this part and moving your mouse.
+
+3) Enabled modules/settings have colored text. Left click on a module to enable/disable it, right click on it to view the settings.
+
+Setting Buttons:
+1) There are three main types of setting buttons: Booleans, Sliders, and Colors.
+
+2) Left clicking on one of these buttons allow for you to turn it on/off, switch the mode, or adjust the slider.
+
+3) Scroll with your mouse wheel to move the gui up/down.
+
+Adjustable GUI features:
+Opacity
+Enabled Color
+Outline Color
+Background Color
+Settings (Background) Color
+Scroll Speed
+Scroll Type
+Animations
+Animation Speed
+Show/Hide HUD Components
+
+(Change these under the "ClickGui" module under HUD)
+
+Custom Font:
+GameSense is capable of running a custom font. To enable it, turn on the "Custom Font" option under the Colors module.
