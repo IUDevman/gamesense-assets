@@ -1,0 +1,103 @@
+Combat:
+AntiCrystal- Places a pressure plate underneath nearby crystals
+AutoArmor- Automatically equips armour to prevent unnecessary damage
+AutoAnvil- Automatically traps and places anvils over opponents head to attempt to destroy their helmet
+AutoCrystalGS- Automatically places and breaks crystals to attempt kill opponent
+AutoSkull- Automatically places skulls inside your hole, thus blocking it (selfburrow).
+AutoTrap- Automatically traps opponent
+AutoWeb- Automatically places cobwebs on opponent to limit their maneuverability 
+BedAura- Automatically places and attempts to sleep in beds in the nether to explode opponent
+CevBreaker- Rapidly breaks and places obsidian above a targets head.
+Blocker- Blocks attacks from new meta attacks (like PistonCrystal and AutoAnvil)
+FastBow- Automatically releases a bow at minimum draw to spam arrows
+HoleFill- Fills holes with obsidian to block opponent from entering
+KillAura- Attacks opponent through walls at an extended reach
+Offhand- Automatically manages your offhand
+PistonCrystal- Places and extends a piston pushing a crystal into an opponents hole
+SelfTrap- Traps yourself in obsidian
+SelfWeb- Places cobwebs in your own hole blocking opponents from easily entering at the expense of maneuverability 
+Surround- Surrounds your feet with obsidian to prevent end crystal attacks
+Exploits:
+CoordExploit- Attempts to find a players Coordinates through various means
+FastBreak- Attempts to mine blocks faster
+LiquidInteract- Allows placements of blocks on liquids
+NoInteract- Disables various interactions with blocks
+NoSwing- Disables the swing animation
+PacketUse- Allows for using items without holding mouse2
+PacketXP- Automatically places bottles of enchanting at your feet
+PortalGodMode- Attempts to make the player invulnerable whilst in a nether portal
+Reach- Increases the clients reach to allow the player to do various actions further away
+Movement:
+Anchor- Stops player movement over a hole 
+Blink- Cancels packets sent to the server to "blink" around
+HoleTP- Fall much faster above holes
+PlayerTweaks- Changes various properties about how the player interacts with the world
+ReverseStep- Step down blocks faster
+Speed- Makes the player go faster or acts as a toggle for other modules
+Sprint- Automatically sprints for you
+Step- Step up higher distances than in vanilla
+Misc:
+Announcer- Announces various actions you perform
+AutoGear- Automatically puts on your kit when you open a chest or shulker.
+AutoGG- Automatically sends a message after you get a kill to chat
+AutoReply- Automatically replies to messages
+AutoRespawn- Respawns you with the option of sending a message afterwards.
+AutoTool- Automatically switches to the most effective tool to mine a block fastest
+ChatModifier- Modifies various aspects of chat
+ChatSuffix- Attaches a suffix to your message
+DiscordRPC- Activates a custom discord rich presence
+FastPlace- Removes place delay 
+FakePlayer- Spawns a fake player designed to 
+HoosiersDupe- Troll message
+HotbarRefill- Automatically refills your hotbar at a certain threshold 
+MCF- Adds a player as a friend when you middle click on them
+MCP- Shoots an enderpearl on middle click
+MultiTask- Allows you perform multiple actions at once
+NoEntityTrace- Doesn't ray trace through entities
+NoKick- Prevents packets that will result in getting disconnected
+PhysicsSpammer- Spams fun facts about physics
+PvPInfo- Displays info about certain pvp related things
+SortInventory- Sorts your inventory
+XCarry- Allows you to carry items in your crafting inventory
+Render:
+BlockHighlight- Renders a box around the block you are looking at
+BreakESP- Renders an animation for breaking a block which is visible through walls
+Bucked- Also known as "fucked detector", draws a render around unsurrounded feet
+Capes- Shows GameSense capes on players who own them
+Chams- Renders players through walls
+CityESP- Shows blocks that when mined will open a player to a crystal attack, also includes a decent autocity feature
+ESP- Renders an indicator for various entities through walls
+Freecam- Puts you in spectator mode client side
+Fullbright- Turns gamma up beyond maximum setting
+HitSpheres- Shows players reach visually
+HoleESP- Shows holes in the ground that would make you safe from crystal attacks
+LogoutSpots- Shows where players in your render distance log out
+Nametags- Renders extra information on the enemies nametag and through walls
+NoRender- Doesn't render certain entities or particles
+RenderTweaks- Changes certain animations 
+ShulkerViewer- Allows you to see inside shulker boxes in your inverntory
+SkyColor- Change the color of the sky
+Tracers- Draws lines to enemy players feet
+ViewModel- Change the players viewmodel positions
+VoidESP- Renders an outline around void blocks through walls
+HUD:
+ArmorHUD- Displays armour durability next to your hotbar
+CombatInfo- Shows some active modules on your HUD
+Coordinates- Shows your coordinates
+InventoryViewer- Displays contents of your inventory on your HUD
+ArrayList- Displays active modules that are set to drawn
+Notifications- Displays notifications on your HUD rather than in chat
+PotionEffects- Displays active potion effects on your HUD
+Radar- Displays relative player positions on your HUD
+Speedometer- Shows your speed
+TargetHUD- Gives detailed information about your target on your HUD
+TargetInfo- Gives less detailed information about your target on your HUD
+TextRadar- Names all entities in a list on your HUD
+Watermark- Displays a GameSense watermark on your HUD
+Welcomer- Displays a message directed at your IGN on the HUD
+Hoosiers — 02/10/2021
+GUI:
+ClickGui- Allows you to change settings in a GUI thanks to PanelStudio
+Colors- Change GUI colours and fonts
+HudEditor- Move positions of HUD elements
+This list is latest as of v2.3.0. Credit to @Demoknight Enjoyer for creating the descriptions!
