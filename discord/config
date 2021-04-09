@@ -1,0 +1,22 @@
+Config Structuring:
+GameSense >
+  Modules >
+    Modules, separate files
+  Main >
+    Bind
+    ClickGUI
+    CommandPrefix
+    Drawn
+    Toggle
+    ToggleMessages
+  Misc > 
+    AutoGG
+    AutoReply
+    AutoRespawn
+    CustomFont
+    Enemies
+    Friends
+If a module is not saving it's settings, delete it's module file in GameSense > Modules > ModuleName.json!
+To make sure that the config saves after doing a lot of changes, type "-saveconfig"!
+To back the config up in a zip file type "-backupconfig"!
+Try to make as many changes to the config in game, directly modifying the config sometimes can break it
