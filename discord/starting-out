@@ -1,0 +1,42 @@
+Installation:
+1) GameSense requires Minecraft Forge to run! If you don't have Forge installed, you need to download the installer here: 
+
+https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html
+2) Download the GameSense jar from the releases channel on Discord or Github. Drag this jar into your mods folder located in %appdata%/.minecraft/mods/1.12.2. If these folders do not exist, make them.
+3) Run Minecraft using your forge profile and GameSense will load in with it. You can check that it is loaded by clicking on the "Mods" button in the home screen.
+Hoosiers — 10/29/2020
+background.PNG
+166.08 KB
+1175x646px
+
+Basic Information:
+Bind for ClickGui- "O"
+
+Default command prefix- "-"
+
+You can change the command prefix by typing the command "-prefix (new prefix)".
+
+The ClickGui bind can be changed either by typing the command "-bind clickgui (new bind)" or by right clicking on the ClickGui Module and setting a new bind by clicking on the setting button.
+
+FAQ:*
+1) My ClickGui looks HUGE!!!
+
+-The ClickGui scales with the other game Guis, so adjust your gui scale to "normal" in the game options.
+
+2) GameSense won't load!
+
+-GameSense utilizes mixins (which is how we modify/interact with some minecraft code), which means the client can be incompatible with others.
+
+Known compatibility issues: Impact, Phobos
+
+Compatible with: Future, Salhack, Pyro, ForgeHax, Seppuku, Wurst 2+
+
+3) How do I start the RPC?
+
+-The RPC by default is not enabled, to start it turn on the module "DiscordRPC" in the MISC category.
+
+4) If you ever have any issues relating to crashes, feel free to send one of the Issue Trackers a crash report.
+
+5) I get a popup that states I'm using an outdated version!
+
+-Follow the hyperlink to the github releases page and download the latest release there.
