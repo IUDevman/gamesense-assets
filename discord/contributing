@@ -1,0 +1,20 @@
+GitHub Link:
+
+https://github.com/IUDevman/gamesense-client
+
+If you are interested in contributing, feel free to download the source from the github and make a pull request. We'll try to look at it as soon as possible.
+
+Stylistic Notes:
+1) Module names do not have any spaces and each word is capitalized. EX: ModuleManager, AutoCrystal, SelfTrap.
+
+2) Setting names are capitalized, but have spacing in them for the "display" name. The config name is the same, but without spaces. EX: "Cancel Crystal", "Blocks Per Tick".
+
+3) Smaller features that are similar are usually combined into one module such as PlayerTweaks or RenderTweaks.
+
+Contributing Goals:
+General:
+1) All code contributed should be original/properly credited (try for original).
+2) Please explain why your changes would benefit the client.
+3) Try to make pull requests for 1 or 2 new features- big pull requests are hard to look through and accept without a lot of changes.
+
+Want to commit something but you don't know what? Ask me for an idea
