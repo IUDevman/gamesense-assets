@@ -1,0 +1,59 @@
+Modules in the HUD category:
+ArmorHUD
+CombatInfo
+InventoryViewer
+ArrayList
+Notifications
+Overlay
+PotionEffects
+Radar
+TargetHUD
+TargetInfo
+TextRadar
+Coordinates
+Speedometer
+
+InventoryViewer and TargetHUD
+ArmorHUD:
+-Displays the armor which you are wearing and it's durability in %.
+
+CombatInfo:
+-2 Modes (Cyber and Hoosiers). Displays information relating to pvp such as what combat modules you have enabled.
+
+Coordinates:
+-Shows overworld/nether coords.
+
+InventoryViewer:
+-Displays the items in your inventory.
+
+ArrayList:
+-Shows what modules are enabled. Enabled modules can be hidden with the drawn command.
+
+Overlay:
+-Text overlays such as a welcomer and watermark.
+
+PotionEffects:
+-Displays the current potion effects that you have and the time left until they run out.
+
+Radar:
+-Displays the location of players and mobs as points on a moving map.
+
+Speedometer:
+-Displays the current speed of the player.
+
+TargetHUD:
+-Shows important information relating to the closest player to you.
+
+TargetInfo:
+-Smaller version of TargetHUD.
+
+TextRadar:
+-Displays a text list of nearby players including their distance and health.
+
+Text Radar
+
+TargetInfo
+
+TargetHUD + TargetInfo
+
+Radar
