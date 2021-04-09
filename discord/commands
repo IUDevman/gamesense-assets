@@ -1,0 +1,45 @@
+List of Commands:
+bind
+toggle
+backupconfig
+drawn
+commands
+modules
+prefix
+friend
+saveconfig
+autogg
+autogear
+autoreply
+openfolder
+set
+autoreply
+font
+enemy
+fixgui
+Fixhud
+disableall
+
+-gear set/save/delete (syntax): Sets up the auto gear module
+-bind (module) (key): Binds a module to a specific key
+-toggle (module): Turns off/on a specific module
+-backupconfig: Backs the config up into a zip file
+-drawn (module):  allows a module to be hidden from the arraylist
+-commands: shows a list of commands
+-modules: shows a list of modules, green = enabled red = disabled, click on the module to enable/disable it
+-prefix (character): binds the command prefix to a specific character
+-friend add/del (player): adds a player to the friends list
+-gear set/save/del/list [name]: sets up the autogear module.
+-saveconfig: saves the config
+-autogg add/del (message): adds or removes a message for the autogg to say
+-openfolder: opens the GameSense config folder
+-set module value: puts a specified value on a setting
+-autoreply (message): adds a message to the autoreply module
+-autorespawn set (message): sets the respawn message
+-font (font) (size): changes the custom font
+-enemy add/del (player): adds/removes a player from the enemies list
+-fixgui: setss the gui back to it's default position values.
+-fixhud: sets the hud back to it's default position values.
+-disableall: turns off all modules
+
+The default keybind is "-"
